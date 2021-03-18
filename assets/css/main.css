@@ -46,3 +46,8 @@ a{
         display: none;
         transition: .4s ease-in-out;
 }
+
+.btn-tab:hover{
+background-color: #212529 !important;
+color: #ffffff;
+}
